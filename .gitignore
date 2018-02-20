@@ -1,3 +1,6 @@
+/data
+/.vscode 
+
 /build
 /src/mongo/db/modules
 /.jsdbshell
@@ -10,9 +13,6 @@
 /perf.data.old
 /massif.out.*
 /smoke-last.json
-
-/data
-/.vscode 
 
 *~
 *.swp
